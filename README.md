@@ -32,7 +32,7 @@ GSAGE+BOND:
      [GraphSage + Bond as a Node feature]  (https://arxiv.org/abs/1706.02216) from Hamilton et Al.             
 
 SMILES+LSTM: 
-      [One hot encoding of SMILES fed to an LSTM] (NB: Currently doesn't work on GPU.. Need to fix collate function)
+      [One hot encoding of SMILES fed to an LSTM] (NB: Currently doesn't work properly/generalize well with stagnant MAE))
             
 Meeting_Reports:       
        COMP396 Meeting status reports in PDF format.
