@@ -1,6 +1,8 @@
 # COMP396
 
-## Project Title: Reproducible machine learning: A review of representation learning approaches for drug discovery
+
+## Fall 2019
+## Reproducible machine learning: A review of representation learning approaches for drug discovery
 
 Objective: The goal  of this project is to replicate the machine learning paper work : 
 [Neural message passing for Quantum Chemistry] (https://arxiv.org/abs/1704.01212) from Gilmer et al. 
