@@ -1,10 +1,13 @@
 # COMP396
 
-
+## Winter 2020: Utilizing Deep Graph Infomax to augment molecular representations.
+###### TO DO: 
+            - Complete SMILES string molecular descriptor
+            - Clean code and change from .ipynb format to a better objet oriented programming style
 ## Fall 2019
 ## Reproducible machine learning: A review of representation learning approaches for drug discovery
 
-Objective: The goal  of this project is to replicate the machine learning paper work : 
+#### Objective: The goal  of this project is to replicate the machine learning paper work : 
 [Neural message passing for Quantum Chemistry] (https://arxiv.org/abs/1704.01212) from Gilmer et al. 
 
 The following are the models that were implemented/experimented with using PyTorch Geometric.
