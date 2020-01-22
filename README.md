@@ -3,7 +3,7 @@
 ## Winter 2020: Utilizing Deep Graph Infomax to augment molecular representations.
 ###### TO DO: 
             - Complete SMILES string molecular descriptor
-            - Clean code and change from .ipynb format to a better objet oriented programming style
+            - Clean code and change .ipynb format to a better objet oriented programming style
 ## Fall 2019
 ## Reproducible machine learning: A review of representation learning approaches for drug discovery
 
