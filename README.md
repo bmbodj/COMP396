@@ -1,8 +1,15 @@
 # COMP396
+![Deep Molecular Graph InfoMax](link-to-image)
+## Winter 2020: Deep Molecular Graph InfoMax
 
-## Winter 2020: Utilizing Deep Graph Infomax to augment molecular representations.
+The following are the models that were implemented/experimented with using PyTorch Geometric.
+#### DMGI: Deep Molecular Graph Infomax
+          ->See in this repository
+####  SMILES+LSTM: 
+          ->See in this repository          
 ###### TO DO: 
-            - Complete SMILES string molecular descriptor
+            -  Experiments with more data and compare with other baselines
+            - Complete semi-supervised version
             - Clean code and change .ipynb format to a better objet oriented programming style
 ## Fall 2019
 ## Reproducible machine learning: A review of representation learning approaches for drug discovery
