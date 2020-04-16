@@ -8,7 +8,7 @@ The following are the models that were implemented/experimented with using PyTor
 ####  SMILES+LSTM: 
           ->See in this repository          
 ###### TO DO: 
-            -  Experiments with more data and compare with other baselines
+            - Experiment with more data and compare with other baselines
             - Complete semi-supervised version
             - Clean code and change .ipynb format to a better objet oriented programming style
 ## Fall 2019
