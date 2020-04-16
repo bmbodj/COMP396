@@ -1,5 +1,5 @@
 # COMP396
-![Deep Molecular Graph InfoMax](https://github.com/bmbodj/COMP396/blob/master/Winter_2020/DMGI_low_resolution.png)
+![Deep Molecular Graph InfoMax](https://github.com/bmbodj/COMP396/blob/master/Winter_2020/Images/DMGI_low_resolution.png)
 ## Winter 2020: Deep Molecular Graph InfoMax
 
 The following are the models that were implemented/experimented with using PyTorch Geometric.
