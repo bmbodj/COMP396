@@ -1,8 +1,4 @@
 import sys
-sys.path.append('/usr/local/lib/python3.7/site-packages/')
-
-from google.colab import drive
-
 
 import csv
 def get_data(split):
