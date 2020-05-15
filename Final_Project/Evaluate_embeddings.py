@@ -7,17 +7,6 @@ import numpy as np
 import pandas as pd
 import os
 
-from sklearn.model_selection import cross_val_score
-from sklearn.model_selection import GridSearchCV, KFold, StratifiedKFold
-from sklearn.svm import SVC, LinearSVC
-from sklearn.linear_model import LogisticRegression
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.neural_network import MLPClassifier
-from sklearn import preprocessing
-from sklearn.metrics import accuracy_score
-from sklearn.manifold import TSNE
-import matplotlib.pyplot as plt
-import seaborn as sns
 from sklearn.kernel_ridge import KernelRidge
 from sklearn import metrics
 from sklearn.metrics import mean_absolute_error
