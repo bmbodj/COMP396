@@ -3,11 +3,9 @@
 ## Winter 2020: Deep Molecular Graph InfoMax
 
 The following are the models that were implemented/experimented with using PyTorch Geometric.
-#### DMGI: Deep Molecular Graph Infomax
-          ->See in this repository
-####  SMILES+LSTM: 
-          ->See in this repository          
-###### TO DO: 
+DMGI: Deep Molecular Graph Infomax (https://github.com/bmbodj/COMP396/tree/master/Final_Project/DMGI_experiments)
+LSTM Autoencoder:(https://github.com/bmbodj/COMP396/tree/master/Final_Project/LSTM_Autoencoder_experiments)                 
+#### Future Work: 
             - Experiment with more data and compare with other baselines
             - Complete semi-supervised version
             - Clean code and change .ipynb format to a better objet oriented programming style
