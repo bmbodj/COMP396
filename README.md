@@ -11,6 +11,8 @@ LSTM Autoencoder:(https://github.com/bmbodj/COMP396/tree/master/Final_Project/LS
             - Experiment with more data and compare with other baselines
             - Complete semi-supervised version
             - Clean code and change .ipynb format to a better objet oriented programming style
+Meeting_Reports: 
+          COMP396 Meeting status reports in PDF format.            
 ## Fall 2019
 ## Reproducible machine learning: A review of representation learning approaches for drug discovery
 
